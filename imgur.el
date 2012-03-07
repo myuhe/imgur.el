@@ -56,7 +56,7 @@
               ("Action" . anything-c-imgur-action))))
 
 (defvar imgur-anything-alist
-  '("Add original thumbnail URL to kill-ring"
+  '("Add original image URL to kill-ring"
     "Add HTML link to kill-ring"
     "Add Org-mode link to kill-ring"
     "Add large thumbnail URL to kill-ring"
